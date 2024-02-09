@@ -60,8 +60,10 @@ LLNL-CODE-856773
 
 LLNL collated this information from The Intel64 and IA-32 Architecture Software
 Developer's Manual Volume 4:  Model-Specific Registers from [March 2023] document number
-[335592-079US].  While we took due care in its transcription, we might have made mistake
-or several. For the most recent an authoritative documentation, please consult the most
+[335592-079US] with selected updates from the [December 2023] version [335592-082US].
+
+While we took due care in its transcription, we expect there are errors.
+For the most recent an authoritative documentation, please consult the most
 recent version of Volume 4 at
 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
 Corrections and amplifications are most welcome.
